@@ -1,0 +1,49 @@
+{
+  "career":{
+    "info":"Your resume is the first bit of you an employer sees deciding whether or not you are suitable for the job."
+  },
+  "EDUCATION":[
+    {
+      "degree":"S.S.C",
+      "school":"SVV",
+    "data":["2013","97%"]
+  },
+
+  {
+    "degree":"Inter/Diploma",
+    "school":"Chaitanya junior college",
+  "data":["2013-15","92%"]
+},
+ {
+   "degree":"B.Tech",
+   "school":"GPCET",
+ "data":["2015-19","80%"]
+}
+ ],
+ "skills":[
+   {
+     "name":"Languages",
+     "info":["C#","Java","R","Python","C++","php"]
+   },
+   {
+     "name":"Operating Systems",
+     "info":["win-10","fedora","redhat","ubuntu","kali"]
+   },
+   {
+     "name":"Data Bases",
+     "info":["Oracle","mongoDB","MYSQL","PDO"]
+   },
+   {
+     "name":"Web Technologies",
+     "info":["HTML","javascript","CSS","AJAX"]
+   },
+   {
+     "name":"FrameWorks",
+     "info":[".Net","Bootstrap","redhat","CodeIgniter"]
+   },
+   {
+     "name":"Libraries",
+     "info":["Jquery"]
+   }
+ ]
+ }
